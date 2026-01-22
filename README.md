@@ -1,7 +1,7 @@
-# Khushnud Ahmed
+# Khushnud Ahmed 👋
 
 Applied Data Scientist · Analytics Engineer  
-Toronto, Canada 🇨🇦
+Toronto, Canada 🍁
 
 I build **reliable analytics and predictive systems** that support business, risk, and operational decision-making.
 
