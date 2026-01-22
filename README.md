@@ -142,7 +142,7 @@ If results can’t be trusted, they don’t matter.
 
 ## Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here  
-- 🌐 Portfolio: https://your-portfolio-link-here  
+- 💼 LinkedIn: https://www.linkedin.com/in/khushnud-ahmed/
+- 🌐 Portfolio: https://k2hmed.github.io/
 
 If you’re building analytics platforms, risk models, or decision-support systems in regulated environments, I’m always open to thoughtful conversations.
